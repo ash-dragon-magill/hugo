@@ -1,5 +1,20 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Ash Hugo Site'
+theme = "blowfish"
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "My Hugo + Blowfish Site"
 
-theme = 'blowfish'
+[params]
+# This tells Blowfish to load static/css/custom.css
+customCSS = ["css/custom.css"]
+
+[[menu.main]]
+name = "P2P Splash"
+identifier = "p2p-splash"
+url = "/p2p/p2p-splash/"
+weight = 30
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+# Allow your raw <div> / <video> HTML in Markdown to render
+unsafe = true

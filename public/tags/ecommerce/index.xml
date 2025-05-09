@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ecommerce on My Hugo &#43; Blowfish Site</title>
+    <link>http://localhost:1313/tags/ecommerce/</link>
+    <description>Recent content in Ecommerce on My Hugo &#43; Blowfish Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Fri, 09 May 2025 13:45:15 +1200</lastBuildDate><atom:link href="http://localhost:1313/tags/ecommerce/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ecommerce Splash</title>
+      <link>http://localhost:1313/ecommerce/ecommerce-splash/</link>
+      <pubDate>Fri, 09 May 2025 13:45:15 +1200</pubDate>
+      
+      <guid>http://localhost:1313/ecommerce/ecommerce-splash/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+/* static/css/custom.css */
+
+/* 1. Container */
+.p2p-splash {
+  position: fixed; /* instead of relative */
+  inset: 0; /* top:0; right:0; bottom:0; left:0; */
+  overflow: hidden;
+  background-color: #111;
+  z-index: 999; /* so it floats above other layout elements */
+}
+
+/* 4. Overlay above both */
+.p2p-splash .overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0 1rem;
+}
+
+/* 6. Badge in corner */
+.p2p-splash .badge {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
+/* 7. Tagline */
+.p2p-splash .headline {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: white;
+  margin-bottom: 1.5rem;
+  max-width: 800px;
+  line-height: 1.2;
+}
+
+/* 8. Buttons */
+.p2p-splash .cta-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}

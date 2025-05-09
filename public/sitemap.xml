@@ -3,19 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/blogpost/</loc>
-    <lastmod>2025-05-08T22:28:57+12:00</lastmod>
+    <loc>http://localhost:1313/billboards/</loc>
+    <lastmod>2025-05-09T13:45:43+12:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/billboards/billboards-splash/</loc>
+    <lastmod>2025-05-09T13:45:43+12:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-08T22:28:57+12:00</lastmod>
+    <lastmod>2025-05-09T13:45:43+12:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/autobiography/</loc>
-    <lastmod>2025-05-08T22:25:51+12:00</lastmod>
+    <loc>http://localhost:1313/convergence/convergence-splash/</loc>
+    <lastmod>2025-05-09T13:45:29+12:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2025-05-08T15:04:04+12:00</lastmod>
+    <loc>http://localhost:1313/convergence/</loc>
+    <lastmod>2025-05-09T13:45:29+12:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ecommerce/ecommerce-splash/</loc>
+    <lastmod>2025-05-09T13:45:15+12:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/ecommerce/</loc>
+    <lastmod>2025-05-09T13:45:15+12:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/p2p/p2p-splash/</loc>
+    <lastmod>2025-05-09T13:28:24+12:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/p2p/</loc>
+    <lastmod>2025-05-09T13:28:24+12:00</lastmod>
   </url>
 </urlset>
